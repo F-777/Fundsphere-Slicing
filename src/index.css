@@ -979,6 +979,8 @@ input:checked + .slider {
     color: #111;
     margin-top: 10px;
     font-family: 'DM Sans', sans-serif;
+    margin-block-end: 0;
+    margin-block-start: 20px
 }
 
 .insight-sub-head-des {

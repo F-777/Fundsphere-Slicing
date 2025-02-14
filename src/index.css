@@ -548,7 +548,7 @@
 .feder {
     display: flex;
     flex-direction: column;
-    gap: 1px;
+    gap: 0.25rem;
 }
 
 .subsection-heading h2 {

@@ -185,14 +185,14 @@ function Fundsphere() {
                                     <h3>Integrates with best <br /> of breed solution</h3>
                                     <p>Integrate with best of payment <br /> processors and accounting software.</p>
                                 </div>
-                                <img src={LevelImage} alt="level-image" />
+                                <img src={ScanImage} alt="level-image" />
                             </div>
                             <div className="features-card-wrapper-4">
                                 <div className="features-card-heading">
                                     <h3>Cost Reduction</h3>
                                     <p>Fundsphere Reduced Payments maintenance <br /> and processing fees. No hidden fees.</p>
                                 </div>
-                                <img src={ScanImage} alt="image-scan" />
+                                <img src={LevelImage} alt="image-scan" />
                             </div>
                         </div>
                     </div>

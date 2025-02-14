@@ -684,19 +684,21 @@
     gap: 12px;
 }
 
-.sub-head-pricing h2 {
+.subsection-heading h2 .pricing-header {
     font-family: 'DM Sans',sans-serif;
-    font-weight: 700;
-    font-size: 48px;
-    color: #181c3a;
+    font-weight: 600;
+    font-size: 3.25rem;
+    text-align: center;
+    line-height: 4.5rem;
 }
 
-.sub-head-pricing p {
-    color: #656d89;
+.subsection-heading p .pricing-desc {
     font-family: 'DM Sans',sans-serif;
-    line-height: 140%;
-    font-size: 1rem;
-    margin-top: 10px;
+    font-weight: 500;
+    font-size: 18px;
+    color: #A6AEBB;
+    text-align: center;
+    line-height: 2rem;
 }
 
 .label-badge-pricing {

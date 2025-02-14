@@ -155,7 +155,7 @@ function Fundsphere() {
                         </div>
                         <div className="feder">
                             <h2 className="feature-heading">Features designed <br/> for you</h2>
-                            <p className="feature-desc">Growth-accelerating products for startups,<br/> ecommerce stores, angel investors & more.</p>
+                            <p className="feature-desc">Growth-accelerating products for startups, ecommerce <br/> stores, angel investors & more.</p>
                         </div>
                     </div>
                     <div className="features-content">

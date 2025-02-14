@@ -685,7 +685,7 @@
     gap: 12px;
 }
 
-.subsection-heading h2 .pricing-header {
+.subsection-heading .pricing-header {
     font-family: 'DM Sans',sans-serif;
     font-weight: 600;
     font-size: 3.25rem;
@@ -693,7 +693,7 @@
     line-height: 4.5rem;
 }
 
-.subsection-heading p .pricing-desc {
+.subsection-heading .pricing-desc {
     font-family: 'DM Sans',sans-serif;
     font-weight: 500;
     font-size: 18px;

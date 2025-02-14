@@ -391,6 +391,7 @@
     font-weight: bold;
     color: #333;
     line-height: 130%;
+    margin-block-end: 4px;
 }
 
 .hero-heading .introduce-header text {

@@ -557,6 +557,7 @@
     font-size: 3.25rem;
     text-align: center;
     line-height: 4.5rem;
+    margin-block-end: 0;
 }
 
 .subsection-heading p .feature-desc {

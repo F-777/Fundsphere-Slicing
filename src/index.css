@@ -385,22 +385,23 @@
     font-weight: normal;
 }
 
-.hero-heading .introduce-header {
+.introduce-header {
     font-family: 'DM Sans',sans-serif;
     font-size: 3.75rem;
     font-weight: bold;
     color: #333;
     line-height: 130%;
     margin-block-end: 4px;
+    margin-block-start: 4px
 }
 
-.hero-heading .introduce-header text {
+.introduce-header text {
     font-size: 3.75rem;
     font-family: 'DM Sans',sans-serif;
     color: #635BFF;
 }
 
-.hero-heading .intro-head-desc {
+.intro-head-desc {
     font-size: 20px;
     color: #A6AEBB;
     font-family: 'DM Sans',sans-serif;
@@ -692,6 +693,7 @@
     text-align: center;
     line-height: 4.5rem;
     margin-block-end: 0;
+    marging-block-start: 1px;
 }
 
 .pricing-desc {

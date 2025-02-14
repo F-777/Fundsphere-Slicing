@@ -102,8 +102,8 @@ function Fundsphere() {
                                 <div className="label-badge-head">
                                     <text>BEST CHOICE</text>
                                 </div>
-                                <h1>Future strategic finance for <br /><text>Enterprenurs</text></h1>
-                                <p>Scale with checking and savings accounts, custom tools, and access to our investor network.</p>
+                                <h1 className="introduce-header">Future strategic finance for <br /><text>Enterprenurs</text></h1>
+                                <p className="intro-head-desc">Scale with checking and savings accounts, custom tools, and access to our investor network.</p>
                             </div>
                             <form action="input">
                                 <div className="cta-btn-wrapper">

@@ -208,8 +208,8 @@ function Fundsphere() {
                         <div className="label-badge-pricing">
                             <text>PRICING PLAN</text>
                         </div>
-                        <h2>Choose Package</h2>
-                        <p>Join our pro features for unlimited<br /> without any contract and cancel anytime.</p>
+                        <h2 className="pricing-header">Choose Package</h2>
+                        <p className="pricing-desc">Join our pro features for unlimited<br /> without any contract and cancel anytime.</p>
                     </div>
                     <form action="form-block">
                         <div className="form-switcher">

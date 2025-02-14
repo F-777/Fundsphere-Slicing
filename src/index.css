@@ -1225,7 +1225,7 @@ input:checked + .slider {
   .container-cta {
     width: 100%;
     max-width: 940px;
-    background-color: linear-gradient (#5a3bfc, #635BFF);
+    background-color: #635BFF;
     border-radius: 20px;
     padding: 35px 30px;
     color: #fff;

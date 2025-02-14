@@ -391,8 +391,8 @@
     font-weight: bold;
     color: #333;
     line-height: 130%;
-    margin-block-end: 4px;
-    margin-block-start: 4px
+    margin-block-end: 1px;
+    margin-block-start: 20px
 }
 
 .introduce-header text {

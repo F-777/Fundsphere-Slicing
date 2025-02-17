@@ -489,10 +489,6 @@
 }
 
 @media (max-width: 768px) {
-    .hero-home-container {
-        flex-direction: column;
-        text-align: center;
-    }
     .cta-btn-wrapper {
         flex-direction: column;
     }

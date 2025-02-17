@@ -282,6 +282,7 @@
 }
 
 .hero-home {
+    background-image: url('../src/utils/hero heading.svg');
     position: relative;
     flex: 1;
     display: flex;

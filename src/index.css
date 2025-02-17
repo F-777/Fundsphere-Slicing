@@ -1123,25 +1123,6 @@ input:checked + .slider {
     color: #635BFF;
 }
 
-@media (min-width: 768px) {
-  .insight-content-wrapper {
-    gap: 30px;
-  }
-
-  .insight-content {
-    display: flex;
-    flex-direction: column;
-  }
-
-  .insight-small-card-pay,
-  .insight-small-card-strategy,
-  .insight-small-card-business {
-    width: 45%; /* Dua kartu per baris */
-  }
-}
-
-
-
 /* Testimony page stylesheet */
 
 .testimony-section {

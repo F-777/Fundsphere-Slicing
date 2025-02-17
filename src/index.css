@@ -758,6 +758,11 @@
     font-family: 'DM Sans',sans-serif;
     font-size: medium;
     font-weight: 500;
+    color: #A6AEBB;
+}
+
+.form-switcher span:hover{
+    color: #635BFF;
 }
 
 input:checked + .slider {

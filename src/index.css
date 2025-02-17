@@ -424,9 +424,6 @@
     padding-left: 1.55rem;
     padding-right: 1.55rem;
     background-color: #635BFF;
-    background-image: url('../src/utils/Pattern (1).svg'); /* the url of background */
-    background-size: cover; /* func the image covered the areas */
-    background-position: center; /* func about the center position of image */
     color: white;
     border: none;
     cursor: pointer;

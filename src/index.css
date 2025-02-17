@@ -1338,6 +1338,21 @@ input:checked + .slider {
     font-weight: 600;
 }
 
+@media (max-width: 768px) {
+    .testi-card-maria,
+    .testi-card-john {
+    display: flex;
+    flex-direction: rows;
+    background-color: #f1f1f1;
+    border-radius: 12px;
+    overflow: hidden;
+    width: 350px;
+    padding: 20px;
+    text-align: left;
+    box-shadow: 1px, 1px, 1px #969696;
+   }
+}
+
 /* Stylesheet CTA and Footer Fundsphere*/
 
 /* Bagian CTA */

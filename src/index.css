@@ -488,11 +488,50 @@
     color: #A6AEBB;
 }
 
-@media (max-width: 768px) {
-    .cta-btn-wrapper {
-        flex-direction: column;
-    }
+.container-cta {
+  width: 100%;
+  max-width: 940px;
+  background-color: #635BFF;
+  border-radius: 20px;
+  padding: 35px 30px;
+  color: #fff;
+  text-align: center;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+  margin-bottom: -45px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
+
+@media (max-width: 768px) {
+  .container-cta {
+    padding: 20px; /* Sesuaikan padding untuk layar kecil */
+  }
+
+  .CTA-heading {
+    font-size: 24px; /* Sesuaikan ukuran font untuk layar kecil */
+  }
+
+  .CTA-Right p {
+    font-size: 14px; /* Sesuaikan ukuran font untuk deskripsi */
+  }
+
+  .cta-btn-wrapper {
+    flex-direction: column; /* Biar tombol dan input jadi kolom */
+  }
+}
+
+@media (max-width: 480px) {
+  .CTA-heading {
+    font-size: 20px; /* Ukuran font lebih kecil di mobile */
+  }
+
+  .CTA-Right p {
+    font-size: 12px; /* Ukuran font lebih kecil di mobile */
+  }
+}
+
 
 
 /* overview stylesheet */

@@ -1477,9 +1477,9 @@ input:checked + .slider {
   }
   
   .footer-bottom .copy-right {
-    color: #635BFF;
+    color: #A38CFF;
     font-weight: 500;
-    font-size: 18px; 
+    font-size: 15px; 
   }
   
   .footer-bottom .footer-icon img {

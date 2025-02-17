@@ -323,7 +323,7 @@
 
 .griden-comp {
     position: absolute;
-    top: 18.75rem;
+    top: 22.5rem;
     z-index: 3;
     display: flex;
     flex-direction: rows;

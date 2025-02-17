@@ -283,7 +283,7 @@
 
 .hero-home {
     background-image: url('../src/utils/hero heading.svg');
-    background-size: 9rem 4.5rem;  /* Custom width dan height */
+    background-size: 90rem 45rem;  /* Custom width dan height */
     background-position: 50% 40%;  /* Posisi kiri 50% dan atas 40% */
     background-repeat: no-repeat;     /* Tile diulang */
     background-attachment: scroll; /* Not fixed */

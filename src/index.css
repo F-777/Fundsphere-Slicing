@@ -285,7 +285,7 @@
     background-image: url('../src/utils/hero heading.svg');
     background-size: 9rem 4.5rem;  /* Custom width dan height */
     background-position: 50% 40%;  /* Posisi kiri 50% dan atas 40% */
-    background-repeat: repeat;     /* Tile diulang */
+    background-repeat: no-repeat;     /* Tile diulang */
     background-attachment: scroll; /* Not fixed */
     position: relative;
     flex: 1;

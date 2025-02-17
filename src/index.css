@@ -1452,3 +1452,16 @@ input:checked + .slider {
     }
   }
   
+@media (max-width: 768px) {
+  .container-cta {
+    padding: 20px; /* Sesuaikan padding untuk layar kecil */
+  }
+
+  .CTA-heading {
+    font-size: 24px; /* Sesuaikan ukuran font untuk layar kecil */
+  }
+
+  .cta-btn-wrapper {
+    flex-direction: column; /* Biar tombol dan input jadi kolom */
+  }
+}

@@ -954,6 +954,18 @@ input:checked + .slider {
     color: #fff;
 }
 
+@media (max-width: 768px) {
+  .pricing-card {
+    flex: 1 1 calc(50% - 20px); /* 2 kolom di tablet */
+  }
+}
+
+@media (max-width: 480px) {
+  .pricing-card {
+    flex: 1 1 100%; /* 1 kolom di mobile */
+  }
+}
+
 
 /* Insight Section Styles */
 

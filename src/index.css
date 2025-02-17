@@ -1245,6 +1245,7 @@ input:checked + .slider {
     width: 100%;
     max-width: 940px;
     background-color: #635BFF;
+    background-image: url('../src/utils/Pattern (1).svg');
     border-radius: 20px;
     padding: 35px 30px;
     color: #fff;

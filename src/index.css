@@ -1342,7 +1342,7 @@ input:checked + .slider {
     .testi-card-maria,
     .testi-card-john {
     display: flex;
-    flex-direction: rows;
+    flex-direction: column;
     background-color: #f1f1f1;
     border-radius: 12px;
     overflow: hidden;

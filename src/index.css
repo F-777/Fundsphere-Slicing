@@ -1257,10 +1257,6 @@ input:checked + .slider {
     justify-content: center;
     align-items: center;
   }
-
-  .section-cta {
-      background-image: url('../src/utils/Pattern (1).svg');
-  }
         
   .CTA-heading {
     font-size: 2.5rem;

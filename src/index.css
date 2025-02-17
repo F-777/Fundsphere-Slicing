@@ -1021,6 +1021,7 @@ input:checked + .slider {
 
 .pricing-container {
   display: flex;
+  flex-direction: columns;
   flex-wrap: wrap;
   justify-content: space-between;
   margin: 20px 0;

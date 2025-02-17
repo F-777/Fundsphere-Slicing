@@ -321,6 +321,13 @@
     gap: 15px;
 }
 
+.griden-comp {
+    position: absolute;
+    z-index: 3.75rem;
+    display: flex;
+    flex-direction: rows;
+    gap: 18px;
+}
 
 .money-charger {
   display: inline-block;

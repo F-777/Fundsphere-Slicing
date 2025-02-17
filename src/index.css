@@ -1182,7 +1182,8 @@ input:checked + .slider {
   }
 
   .insight-content {
-    flex-wrap: nowrap;
+    display: flex;
+    flex-direction: column;
   }
 
   .insight-small-card-pay,

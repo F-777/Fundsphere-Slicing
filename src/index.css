@@ -1460,6 +1460,7 @@ input:checked + .slider {
     position: absolute;
     right: -10px;
     }
+  }
   
   /* Bagian Footer */
   footer {

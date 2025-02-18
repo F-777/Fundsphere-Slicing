@@ -1446,6 +1446,7 @@ input:checked + .slider {
     list-style: none;
     padding: 0;
     margin: 0;
+    gap: 8px;
   }
   
   .menu-links-platform-wrapper li,
